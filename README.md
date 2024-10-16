@@ -1,6 +1,4 @@
-<h1 align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=100&width=500&height=70&lines=I'm+Harvard+Chong%F0%9F%91%8B;Welcome+to+my+Github!)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=100&width=500&height=70&lines=I'm+Harvard+Chong%F0%9F%91%8B;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 <h3 align="center">Aspiring Software Engineer</h3>
 
