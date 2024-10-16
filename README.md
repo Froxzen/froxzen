@@ -29,10 +29,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,jest" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,jest" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,py,vscode,pycharm,github,git" /><br>
 </div>
 
