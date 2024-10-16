@@ -8,9 +8,11 @@
 
 <div align="center">
  
- 🎓 University of New South Wales
+ 🎓 University of New South Wales - 
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🖥️ Bachelor of Software Engineering (Honours)
+
+ 🥇1st Year 
 
 ⚡ Hobbies: Programming🧑‍💻, Badminton🏸
 
