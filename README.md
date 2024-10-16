@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🎓 University of New South Wales - 
+ 🎓 University of New South Wales
  
  🖥️ Bachelor of Software Engineering (Honours)
 
@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,pycharm,github,git" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,javascript,typescript,nodejs,express,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,jest" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,vscode,pycharm,github,git" /><br>
 </div>
 
 <br/>
