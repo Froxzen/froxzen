@@ -11,5 +11,5 @@ I am studying a Bachelor of Software Engineering (Honours). I am highly passiona
 
 ## 💻 Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,jest,c,cpp,java,py,github,git" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,jest,c,cpp,java,py,github,git" />
                     
