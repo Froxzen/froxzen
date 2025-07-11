@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Harvard👋</h1>
 
 ## ✨ About Me
-*   🧑‍💻  Software Engineer Intern @ Calctree
-*   🌍  Based in Sydney, Australia
-*   🖥️  Check out my portfolio [here!](http://froxzen.github.io/My-Portfolio/)
+* 🌍 Based in Sydney, Australia  
+* 🎓 B.Eng (Software) @ UNSW  
+* 🧑‍💻 Software Engineer Intern @ Calctree  
+* 🖥️ Check out my portfolio [here!](http://froxzen.github.io/My-Portfolio/)
 
 ## 💻 Skills
 
