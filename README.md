@@ -3,7 +3,7 @@
 ## ✨ About Me
 * 🌍 Based in Sydney, Australia  
 * 🎓 B.Eng (Software) @ UNSW  
-* 🧑‍💻 Software Engineer Intern @ Calctree  
+* 🧑‍💻 Software Engineer Intern @ Calctree & Lumiate
 * 🖥️ Check out my portfolio [here!](http://froxzen.github.io/My-Portfolio/)
 
 ## 💻 Skills
