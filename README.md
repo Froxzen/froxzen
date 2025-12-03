@@ -4,7 +4,6 @@
 * 🌍 Based in Sydney, Australia  
 * 🎓 B.Eng (Software) @ UNSW  
 * 🧑‍💻 Software Engineer @ Stealth
-* 🖥️ Check out my portfolio [here!](http://froxzen.github.io/My-Portfolio/)
 
 ## 💻 Skills
 
