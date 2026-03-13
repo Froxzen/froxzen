@@ -3,7 +3,6 @@
 ## ✨ About Me
 * 🌍 Based in Sydney, Australia  
 * 🎓 B.Eng (Software) @ UNSW  
-* 🧑‍💻 Software Engineer @ Stealth
 
 ## 💻 Skills
 
